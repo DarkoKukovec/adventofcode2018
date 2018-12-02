@@ -1,5 +1,3 @@
-package task0B;
-
 import java.io.File;
 
 fun main0B() {
